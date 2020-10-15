@@ -1,8 +1,8 @@
 from tkinter import *
-from tkinter import messagebox
+from tkinter import messagebox 
 import math
 root = Tk()
-root.geometry("200x200")
+root.geometry("300x300")
 # root.iconbitmap('C:\Users\KIIT\Documents\Python Project\GUI Project\Mini Project\Half_Life_II.ico')
 root.minsize(340,200)
 root.maxsize(340,200)
